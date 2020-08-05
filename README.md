@@ -10,6 +10,7 @@
 
 [<img align="left" alt="Khaledgarbaya.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Khaled Garbaya | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Khaled Garbaya | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Khaled Garbaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Khaled Garbaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Khaled Garbaya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -72,5 +73,6 @@
 [newsletter-blog]: https://khaledgarbaya.net/newsletter
 [twitter]: https://twitter.com/khaled_garbaya
 [youtube]: https://youtube.com/kgarbaya
+[twitch]: https://twitch.com/kgarbaya
 [instagram]: https://instagram.com/khaledgarbaya
 [linkedin]: https://linkedin.com/in/kgarbaya
