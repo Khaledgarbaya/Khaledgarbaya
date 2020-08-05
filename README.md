@@ -49,7 +49,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Getting Started with Gatsbyjs recipes](https://khaledgarbaya.net/articles/getting-started-with-gatsbyjs-recipes)
+- [Gatsby As a Replacement for Create-react-app](https://khaledgarbaya.net/articles/gatsby-as-a-replacement-for-create-react-app)
+- [Tl;Dr GraphQL](https://khaledgarbaya.net/articles/tl-dr-graphql)
+- [How to create a node js command line tool with yargs middleware](https://khaledgarbaya.net/articles/how-to-create-a-node-js-command-line-tool-with-yargs-middleware)
+- [Moving from create-react-app to Gatsby.js](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
