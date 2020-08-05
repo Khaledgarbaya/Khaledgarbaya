@@ -38,7 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Creating  Gatsbyjs  Recipes for Tailwindcss and Contentful](https://www.youtube.com/watch?v=4mr-iqdsz-Q)
+- [Live Stream - Migrate a plain React app to Gatsby](https://www.youtube.com/watch?v=uTQFVmnGB7o)
+- [02 Build a social network app using the JAMstack - CRUD](https://www.youtube.com/watch?v=QQhTuESUP4A)
+- [Prevent css grid items stretch](https://www.youtube.com/watch?v=DGoeAUB9VLQ)
+- [01 Build a social network app using the JAMstack - Project setup and Auth](https://www.youtube.com/watch?v=L6-z15IvZ3k)
 <!-- YOUTUBE:END -->
 
 ---
