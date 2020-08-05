@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Khaled Garbaya][website] 👋
+### Hi there, I'm [Khaled Garbaya][website] 👋
 
 ## I'm a Developer, and Teacher!
 - 🔭 I’m currently working on a [Migrtating from CRA to GAtsby Course][website]!
