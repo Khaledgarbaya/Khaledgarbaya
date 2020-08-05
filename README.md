@@ -1,7 +1,7 @@
 ### Hi there, I'm [Khaled Garbaya][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Migrtating from CRA to GAtsby Course][website]!
+- 🔭 I’m currently working on a [Migrtating from CRA to Gatsby Course][leasrjamstack]!
 - 🌱 I’m currently learning everything JAMstack 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love BBQ
@@ -35,6 +35,12 @@
 <br />
 
 ---
+### 💌 Subscribe to my newsletters
+
+- [A curated list of courses, articles and tips about JAMstack][newsletter-jamstack]
+- [Blog newsletter, I write about webdevelopment][newsletter-blog]
+
+---
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -61,6 +67,9 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khaledgarbaya&show_icons=true&hide_border=true" />
 
 [website]: https://khaledgarbaya.net
+[learnjamstack]: https://learnjamstack.com/migrate-a-reactjs-project-to-gatsby
+[newsletter-jamstack]: https://learnjamstack.com/
+[newsletter-blog]: https://khaledgarbaya.net/newsletter
 [twitter]: https://twitter.com/khaled_garbaya
 [youtube]: https://youtube.com/kgarbaya
 [instagram]: https://instagram.com/khaledgarbaya
