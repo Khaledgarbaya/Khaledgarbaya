@@ -1,7 +1,7 @@
 ### Hi there, I'm [Khaled Garbaya][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Migrtating from CRA to Gatsby Course][learnjamstack]!
+- 🥳 I Just released a new course [Get Started with Gatsby](https://egghead.io/courses/get-started-with-gatsby?af=eq272d)
 - 🌱 I’m currently learning everything JAMstack 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love BBQ
