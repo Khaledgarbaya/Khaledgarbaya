@@ -1,7 +1,34 @@
-### Hi there, I'm [Khaled Garbaya][website] 👋
+## Hi there, I'm [Khaled Garbaya][website] 👋
+
+## Latest course
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong><a href="https://realworldjamstack.dev/">realworldjamstack.dev</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://realworldjamstack.dev/">
+            <img
+              alt="Learn jamstack by building realworld apps"
+              src="https://images.ctfassets.net/ka0lider8v0h/4JO8QwBbdxXt27CFhXpZiQ/da2a164875985d27126dc9fae2db5c0b/real-world-jamstack.gif"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## I'm a Developer, and Teacher!
-- 🥳 I Just released a new course [Get Started with Gatsby](https://egghead.io/courses/get-started-with-gatsby?af=eq272d)
+- 🥳 I Just released a new course [Real world jamstack](https://realworldjamstack.dev/)
 - 🌱 I’m currently learning everything JAMstack 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love BBQ
